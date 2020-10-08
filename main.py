@@ -1,8 +1,11 @@
-name = input('what is your name')
-#ask the user to input their name and designate 'name' as a variable
-print ('Hi' + name + ', may I call you Mr. Dees?')
-# respond to the user telling them that you understand their name but wish to call them somethign different.
-response = input('')
-#allow the user to question the response but ignore it anyway.
-print ('Dees Nuts!!!!!')
-#joke goes here.
+price = 10
+#10 = integer
+rating = 4.9
+#4.9 = float
+name = 'Taylor'
+#Taylor = String
+is_published = False
+#False = Boolean (True/False)
+print(price)
+#call the value of the variable.
+
